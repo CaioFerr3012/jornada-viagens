@@ -38,15 +38,15 @@ input[type="checkbox"]:checked ~ nav {
 nav {
   display: none;
 }
-.list-link {
+.list-links {
   list-style: none;
 }
 
-.list-link li {
+.list-links li {
   margin: 16px 0;
 }
 
-.list-link li a {
+.list-links li a {
   color: var(--text-secondary-color);
   text-decoration: none;
 }
